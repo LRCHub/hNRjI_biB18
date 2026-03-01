@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Touch It",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-01T05:15:01.153059Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Touch It",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_Touch_It_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Touch It / Technologic",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/02_Touch_It___Technologic_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Touch It \u0000 Technologic",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/03_Touch_It_\u0000_Technologic_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Touch It",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/04_Touch_It_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Touch It (feat. Lloyd Banks & Papoose) [Remix]",
+      "artist": "Busta Rhymes feat. Lloyd Banks & Papoose",
+      "has_synced": false,
+      "path": "select/05_Touch_It_(feat._Lloyd_Banks_&_Papoose)_[Remix]_Busta_Rhymes_feat._Lloyd_Banks_&_Papoose.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Touch It (Remix) feat Lloyd Banks and Papoose (Dirty)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/06_Touch_It_(Remix)_feat_Lloyd_Banks_and_Papoose_(Dirty)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Touch It (Remix) [Featuring Mary J. Blige, Missy Elliott and Rah Digga]",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/07_Touch_It_(Remix)_[Featuring_Mary_J._Blige,_Missy_Elliott_and_Rah_Digga]_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Touch It (Remix) feat Mary J Blige, Rah Digga and Missy (Clean)",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/08_Touch_It_(Remix)_feat_Mary_J_Blige,_Rah_Digga_and_Missy_(Clean)_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Touch It (Remix) feat Mary J Blige, Rah Digga and Missy (Dirty)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/09_Touch_It_(Remix)_feat_Mary_J_Blige,_Rah_Digga_and_Missy_(Dirty)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Why Can't I Touch It?",
+      "artist": "Buzzcocks",
+      "has_synced": false,
+      "path": "select/10_Why_Can't_I_Touch_It_Buzzcocks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Touch It or Not (feat. Lil' Wayne)",
+      "artist": "Cam’ron",
+      "has_synced": false,
+      "path": "select/11_Touch_It_or_Not_(feat._Lil'_Wayne)_Cam’ron.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Touch It",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_Touch_It_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Touch It",
+      "artist": "Denis First",
+      "has_synced": true,
+      "path": "select/13_Touch_It_Denis_First.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Touch It",
+      "artist": "Denis First/KDDK",
+      "has_synced": true,
+      "path": "select/14_Touch_It_Denis_First_KDDK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Touch It\u0000Technologic",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/15_Touch_It\u0000Technologic_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Touch It",
+      "artist": "Monifah",
+      "has_synced": true,
+      "path": "select/16_Touch_It_Monifah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Touch It",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_Touch_It_Ariana_Grande.txt"
+    }
+  ]
+}
